@@ -1,4 +1,4 @@
-package com.dum_sileang.recipe_app
+package com.vetchhaykey.recipe_app
 
 import org.junit.Test
 

@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dum_sileang.recipe_app"
+    namespace = "com.vetchhaykey.recipe_app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dum_sileang.recipe_app"
+        applicationId = "com.vetchhaykey.recipe_app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
